@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on contraindications, more on that later :3
 - 🌱 I’m currently learning Python, C++, ML, and applied data science
--  i've spent [![wakatime](https://wakatime.com/badge/user/e6dca865-7802-411e-8499-c68ff78ad58d.svg?style=social)](https://wakatime.com/@e6dca865-7802-411e-8499-c68ff78ad58d) <-- this much time writing (probably) Python 
+-  i've spent [![wakatime](https://wakatime.com/badge/user/e6dca865-7802-411e-8499-c68ff78ad58d.svg?style=flat-square)](https://wakatime.com/@e6dca865-7802-411e-8499-c68ff78ad58d) <-- this much time writing (probably) Python 
 
 
 <!--
